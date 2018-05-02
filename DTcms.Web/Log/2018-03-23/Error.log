@@ -1,0 +1,720 @@
+[2018-03-23 15:41:46.5621] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:41:50.8438] 
+客户机IP:::1
+错误地址:http://localhost:40610/index.aspx
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:41:52.5169] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:42:07.9219] 
+客户机IP:::1
+错误地址:http://localhost:40610/favicon.ico
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:42:54.4854] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:42:54.4854] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:43:09.9858] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:43:10.0480] 
+客户机IP:::1
+错误地址:http://localhost:40610/favicon.ico
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:44:28.6394] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:00.0491] 
+客户机IP:127.0.0.1
+错误地址:http://localhost:40610/
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:00.0491] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:00.0491] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:08.3604] 
+客户机IP:::1
+错误地址:http://localhost:40610/index.aspx
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:08.5077] 
+客户机IP:::1
+错误地址:http://localhost:40610/favicon.ico
+异常信息:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+[2018-03-23 15:45:27.8000] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:52:16.0615] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/login.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:53:11.9226] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:57:11.2995] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/login.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:58:16.3766] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:58:26.0019] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 15:58:46.5203] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:00:45.4959] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:03:48.3425] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:03:56.8905] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:04:04.2312] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:04:07.3573] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:08:42.8336] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:21:39.4524] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:23:30.1428] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:23:33.6880] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:24:26.5046] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:25:14.3010] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:26:56.8017] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:26:56.8017] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:28:28.1872] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:28:59.3150] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:30:45.5570] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:31:08.2804] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:31:08.2804] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:32:15.7679] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:33:54.1657] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:34:47.2465] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:44.9218] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:45.3428] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:46.4061] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:46.8611] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:47.0537] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:36:47.2455] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:37:04.3349] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:38:40.8159] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:40:32.0280] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:40:55.2183] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:41:04.5464] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:41:42.5164] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:48:46.5801] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:48:48.2483] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 16:54:59.3800] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:不支持关键字: “allow user variables”。 
+[2018-03-23 16:59:03.2342] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_log.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:00:03.5529] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_log.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:05:02.8910] 
+客户机IP:::1
+错误地址:http://localhost:40610/aspx/main/index.aspx?/index.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:06:07.4835] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_log.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:20:32.3136] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_log.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:20:33.3701] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:20:33.9699] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:20:34.4237] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:20:34.8006] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:21:33.5515] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:22:01.3844] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:22:13.0708] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:27:12.1628] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:27:43.4626] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:28:55.4513] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:28:55.4593] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:28:55.4593] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:28:55.4593] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:29:03.8125] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:29:32.6907] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:39:11.9234] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:39:51.9704] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:41:02.6286] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:41:31.4866] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/manager_edit.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:43:14.1600] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/7ccd611449ab4e29a86e2cf2f8b1044a?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:43:15.3978] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:43:16.3730] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/9f21f1b4c1254ce48f32683a36c337e5?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:43:16.7076] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:43:27.2574] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:44:16.9429] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:44:32.8283] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:44:54.1206] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:45:15.9718] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/cbaffe21557644b1a1777fd71e82c23b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:45:17.3231] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/dc546b0083784425a021f2550337d448?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:45:17.6655] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/fb8269e4678148d29c64016e6e7edc38?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:45:18.6355] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_edit.aspx?action=Edit&id=1
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:46:45.3971] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_edit.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 17:46:55.7421] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/bcbe04bb1e6f4a35b55cd82d3d6592c8?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 17:47:29.9854] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_edit.aspx?action=Edit&id=2
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:36:47.4862] 
+客户机IP:::1
+错误地址:http://localhost:40610/index.aspx
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:37:49.4710] 
+客户机IP:::1
+错误地址:http://localhost:40610/index.aspx
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:37:54.6271] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/b4c21ba594f44f028732109b8f2dd90f?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:37:56.1878] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/f0def05588254485a95992afe83bb501?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:37:56.6372] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/0ac721990c3d4795adb5a944c499bb4b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:37:57.5047] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_edit.aspx?action=Edit&id=1
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:40:56.7961] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/manager/role_edit.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:41:46.7338] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/018512b601af4942b36c597f82d826c1?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:41:54.5536] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/da1c99b9e62b44328a6357a6ff99f636?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:41:56.7028] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/9cd4025a60fa46b8bc5df6dbceca4606?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:41:58.2637] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/8c4332042d964604880d241a44e8abb7?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:41:59.0977] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c831511aa5804c0a9f3772f5ca566400?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:42:00.7177] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/8c4332042d964604880d241a44e8abb7?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:42:01.3433] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/26aafae0ea374d1dbdb5c069873eeeed?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:42:12.1497] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/cded76911317483a8c0b621550af23c7?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:43:42.1130] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/184e25acd4ca4472ae0b8a84a209d15a?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:43:59.1841] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/12660603efb84a1c8a3a67c1c87f5d17?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:44:10.1505] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/3155dabfc0b744b88a96c61e6ba1ae03?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:44:14.6355] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/102c7a82bc5d4373a337cfccae45809d?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:44:51.6266] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:06.0501] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/34d3dc2574694009b9dc68b36bd074e7?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:10.8383] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/8f927017344f4dc59cc44daa50e3bda3?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:14.9793] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/center.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:45:17.2881] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/0b70f7a636a4429eabab3cb75bf49760?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:21.1928] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.04673422070484756
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:23.9082] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/center.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:45:24.7062] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/66bb7229f72e4cd5a5c36cd5cf154811?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:45:25.3709] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.9219898554097847
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:46:21.1925] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/center.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 18:46:21.5946] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/3b642a3c339344cfbeb9114dcdc0cbd4?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:46:21.7058] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.09839921498445614
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:47:47.5357] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.8554931115035513
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:47:47.6161] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c9d50fb8e7ea418da6ea429c023b3ed9?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:47:47.6311] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/4aa2c31fc87e4ff7a0fc89a72aec8359?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:47:48.0195] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.7993864100545878
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:47:58.2720] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:48:16.9522] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/17b7fa46852b453fa6fbabb3c184d865?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:48:16.9522] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.6369637324257484
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:48:17.7062] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/98c8349e1c744af99efdc3ac73cee2cc?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:48:18.8738] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.3982344161707785
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:49:12.0792] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.06408755920049836
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:49:15.2572] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.009806392204446457
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:49:16.5538] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/b336850f3fa3457f9696fc0b2bdb00fa?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:49:17.3343] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/f22fab2085c24132a5f4d910e107cd21?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:09.6212] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/333d8bb341ce4efbb7ef4ff7f379cab4?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:09.6212] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.539191454000953
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:10.3863] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/7787f2bba82a49fbabfd5d15860213f9?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:12.8327] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.9306610607217192
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:25.9384] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.5060025120624938
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:25.9384] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/8f8b8a5c37354630bf38e43fd4a012fd?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:25.9384] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/a2dd045681054867bb0ebc385cdfc8d2?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:26.4402] 
+客户机IP:::1
+错误地址:http://localhost:40610/tools/admin_ajax.ashx?action=get_navigation_list&time=0.29279076097581624
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:39.6550] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/779a8df9829c43f9b0ae854e72f4e38b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:39.6550] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/29de6362f3884aec80b1997bc1528f13?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:50:46.3142] 
+客户机IP:::1
+错误地址:http://localhost:40610/
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:51:17.3123] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/251277ee1f4042c2b552ddd52e830246?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:51:18.7129] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/3aecaa63456444778818bd8de2a67fe9?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:51:28.8257] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c1aed10c35f94fe3ace9f36195e51c13?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:51:30.7713] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/1563913dd24c43a08559aa5d636a0cbf?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 18:51:32.0224] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/8087becdf32a423095e5235377e35aa1?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:04:46.4854] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/48c95bb5a4514a19a6baea11f473afda?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:04:47.6905] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/9a55592d48444a9c8cb2203dbca6463a?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:04:49.2832] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/74ea4d12944346598cdbd821ac8a20c0?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:04:50.7949] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/43964245037f4d3298c227cfbb03484b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:06:43.9935] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/add0d6f384d04094b7e68a1a13da0f17?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:06:44.6166] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/315445488a73411ebd1f8fbbfb11cc88?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:06:47.9375] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c8e2048ce0c44fb093917207bf49b4c1?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:06:48.7011] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/45086f367e6544a983629abcecc01140?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:07:15.0337] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c075bec2f66940f4941f0a9ded79d740?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:07:15.6336] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/58dd739bfd83454c8a7948b36e4f865f?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:07:16.2153] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/9805cee7f5694d87b747061ae9ab18ac?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:07:18.0448] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/templet_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:07:18.8303] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/builder_html.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:07:19.3765] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/nav_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:07:21.2123] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/channel/site_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:07:23.0075] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/1f2d996a679f4e4fa975606ecc3ac72b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:07:36.0630] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/builder_html.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:07:36.3844] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/nav_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:08:12.3798] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/ccb982deed304cca899f9812a1f28b5c?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:08:26.1513] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/c0cc3ef30e67495e9831ce44b6a014fb?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:08:28.9729] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/plugin_list.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:08:32.8475] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/90fc5886cd4242729e72899329543990?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
+[2018-03-23 19:08:32.8475] 
+客户机IP:::1
+错误地址:http://localhost:40610/admin/settings/builder_html.aspx
+异常信息:引发类型为“System.Web.HttpUnhandledException”的异常。 
+[2018-03-23 19:08:33.7636] 
+客户机IP:::1
+错误地址:http://localhost:40610/__browserLink/requestData/46bda6241627407aa9fdc8d74e27711b?version=2
+异常信息:“DTcms.DBUtility.DbHelperSQL”的类型初始值设定项引发异常。 
